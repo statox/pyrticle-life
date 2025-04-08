@@ -8,6 +8,9 @@ authors = [
   { name = "Samuel MARLHENS", email = "samuel.marlhens@proton.me" },
 ]
 readme = { file = "README.md", content-type = "text/markdown" }
+dependencies = [
+    "vpython>=7.6.5",
+]
 
 [project.urls]
 homepage = "https://github.com/smarlhens/python-boilerplate#readme"
